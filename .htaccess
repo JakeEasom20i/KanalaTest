@@ -1,0 +1,7 @@
+#+PHPVersion
+#="php82"
+AddHandler x-httpd-php82 .php
+#-PHPVersion
+
+
+#EOF
